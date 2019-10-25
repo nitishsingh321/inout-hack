@@ -19,4 +19,4 @@ npm install
 
 3. Goto the web address through Chrome/Firefox
 
-This is my first commit
+This is my second commit.
